@@ -1,5 +1,5 @@
 </p>
-<a href="https://github.com/karthikeyan1845"><img src="https://readme-typing-svg.herokuapp.com/?lines=✿ʜᴇʟʟᴏ%20ɪ%20ᴀᴍ✿%20;♡‿♡ᴋᴀʀᴛʜɪ%20+ᴋᴇʏᴀɴ♡‿♡;1ʏᴇᴀʀ%20of%20ᴄᴏᴅɪɴɢ%20ᴇxᴘᴇʀɪᴇɴᴄᴇ;Always%20learning%20new%20technologies;☠️ɴᴇᴠᴇʀ%20ᴛʀᴜꜱᴛ%20ᴀ%20ᴄᴏᴍᴘᴜᴛᴇʀ%20;ʏᴏᴜ%20ᴄᴀɴ’ᴛ%20ᴛʜʀᴏᴡ%20ᴏᴜᴛ%20ᴀ%20ᴡɪɴᴅᴏᴡ☠️&font=Pacifico&center=true&width=1250&height500&color=000888&vCenter=true&size=4\0%22"></a> </p>
+<a href="https://github.com/karthikeyan1845"><img src="https://readme-typing-svg.herokuapp.com/?lines=✿ʜᴇʟʟᴏ%20ɪ%20ᴀᴍ✿%20;♡‿♡Shyam%20+Lingeshwaran20ᴄᴏᴅɪɴɢ%20ᴇxᴘᴇʀɪᴇɴᴄᴇ;Always%20learning%20new%20technologies;☠️ɴᴇᴠᴇʀ%20ᴛʀᴜꜱᴛ%20ᴀ%20ᴄᴏᴍᴘᴜᴛᴇʀ%20;ʏᴏᴜ%20ᴄᴀɴ’ᴛ%20ᴛʜʀᴏᴡ%20ᴏᴜᴛ%20ᴀ%20ᴡɪɴᴅᴏᴡ☠️&font=Pacifico&center=true&width=1250&height500&color=000888&vCenter=true&size=4\0%22"></a> </p>
 
 
 
@@ -9,12 +9,11 @@
 
 <h1 align="center">ɪ ᴀᴍ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴅᴇᴠᴏʟᴘᴇʀ ᴀɴᴅ ᴇᴛʜɪᴄᴀʟ ʜᴀᴄᴋᴇʀ </h1>
 <p align="centre"> <img src="https://telegra.ph/file/f7e4b655a39a4e2e0214e.jpg" 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshmoni227" alt="mukeshmoni227" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=mukeshmoni227" alt="shyam" /></a> </p>
 - 🔭 I’m currently working on **MIRACLE NETWORK**
 
-- 💬 Ask me about **https://t.me/CRICKETER_420**
 
-- 📫 How to reach me **karthigopi1845605@gmail.com**
+- 📫 How to reach me **shyam1962002@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/monimukesh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monimukesh007" height="30" width="40" /></a>
@@ -29,5 +28,3 @@
 </details>
 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
